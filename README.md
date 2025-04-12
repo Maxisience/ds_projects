@@ -3,4 +3,7 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Оптимизация управления персоналом](https://github.com/AIPerova/data_projects/blob/main/hr_help_mdl/6578cd52-d561-4374-81e1-8d0f359004c8.ipynb) |  Построение модели, которая сможет <br/>на основе данных заказчика предсказать,<br/> что сотрудник уволится из компании| python, pandas, numpy, scipy, sklearn, matplotlib       |
+| 1.   | [Оптимизация управления персоналом](https://github.com/Maxisience/ds_projects/tree/main/hr_help_mdl) |  Построение модели, которая сможет <br/>на основе данных заказчика предсказать,<br/> что сотрудник уволится из компании| python, pandas, numpy, scipy, sklearn, matplotlib       |
+|2.|[Исследование данных интернет-магазина](https://github.com/Maxisience/ds_projects/tree/main/one_click_prj)||
+|3.|[Прогнозирование расторжения контракта пользователем](https://github.com/Maxisience/ds_projects/tree/main/contract_term_preds)||
+|4.|[Поиск изображений по запросу](https://github.com/Maxisience/ds_projects/tree/main/photo_select_project)||
